@@ -7,8 +7,6 @@
 import feature ;
 import modules ;
 import toolset ;
-import-search /boost/context ;
-import boost-context-features ;
 
 project
     : common-requirements <library>$(boost_dependencies)
